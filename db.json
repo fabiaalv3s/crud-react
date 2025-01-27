@@ -9,8 +9,15 @@
       "name": "teste",
       "bugdet": "3",
       "budget": "5000",
-      "cost": 0,
-      "services": []
+      "cost": 1000,
+      "services": [
+        {
+          "name": "contratar dev JS",
+          "cost": "1000",
+          "description": "construir app",
+          "id": "aef88c94-9f4a-4716-8534-88d89a4f24a0"
+        }
+      ]
     },
     {
       "id": "8b71",
@@ -18,11 +25,18 @@
         "id": "3",
         "name": "Design"
       },
-      "name": "testeeee",
+      "name": "Testando",
       "bugdet": "3",
-      "budget": "5000",
-      "cost": 0,
-      "services": []
+      "budget": "50000",
+      "cost": 50,
+      "services": [
+        {
+          "name": "teste",
+          "cost": "50",
+          "description": "a",
+          "id": "3b722255-9cf3-41b5-8209-68147252579d"
+        }
+      ]
     }
   ],
   "categories": [
